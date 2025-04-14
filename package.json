@@ -1,0 +1,10 @@
+{
+  "name": "meta-mcp",
+  "version": "0.1.0",
+  "description": "MCP Server for connecting to the Meta Marketing API",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
