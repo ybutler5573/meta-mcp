@@ -7,3 +7,4 @@ dist/
 *.pyc
 build/
 tmp/
+.cache/
