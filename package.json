@@ -1,6 +1,6 @@
 {
   "name": "meta-mcp",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "description": "MCP Server for connecting to the Meta Marketing API",
   "main": "src/index.ts",
   "scripts": {
